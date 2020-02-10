@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.28 249" style="enable-background:new 0 0 595.28 249;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#F69577;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{font-family:'PlantagenetCherokee';}
+	.st5{font-size:22.6772px;}
+	.st6{fill:none;stroke:#E74225;stroke-width:8.5039;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#7F7F7F;stroke-miterlimit:10;}
+</style>
+<circle class="st0" cx="134.3" cy="129.77" r="96.5"/>
+<path class="st1" d="M178.59,45.13"/>
+<path class="st2" d="M226.28,97.89c-8.4-23.82-26.08-44.32-50.86-55.66l-41.12,89.91L226.28,97.89z"/>
+<rect x="214.3" y="36.64" class="st3" width="39" height="26"/>
+<text transform="matrix(1 0 0 1 214.2992 52.4361)" class="st4 st5">D</text>
+<rect x="180.29" y="119.14" class="st3" width="39" height="26"/>
+<text transform="matrix(1 0 0 1 180.2904 134.9362)" class="st4 st5">d</text>
+<circle class="st0" cx="415.34" cy="129.7" r="96.5"/>
+<path class="st1" d="M459.64,45.06"/>
+<path class="st6" d="M507.33,97.81c-8.4-23.82-26.08-44.32-50.86-55.66"/>
+<path class="st6" d="M225.56,97.81c-8.4-23.82-26.08-44.32-50.86-55.66"/>
+<rect x="495.34" y="36.56" class="st3" width="39" height="26"/>
+<text transform="matrix(1 0 0 1 495.3434 52.363)" class="st4 st5">D</text>
+<rect x="461.33" y="119.06" class="st3" width="39" height="26"/>
+<text transform="matrix(1 0 0 1 461.3346 134.863)" class="st4 st5">d</text>
+<line class="st7" x1="415.34" y1="33.2" x2="415.34" y2="226.2"/>
+<line class="st7" x1="318.84" y1="129.7" x2="511.84" y2="129.7"/>
+<line class="st7" x1="347.11" y1="61.46" x2="483.58" y2="197.94"/>
+<line class="st7" x1="347.11" y1="197.94" x2="483.58" y2="61.46"/>
+</svg>

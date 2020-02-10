@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: A2.aux
+The style file: plain.bst
+Database file #1: mybib.bib
+Warning--to sort, need author, editor, or key in Dennet_1991
+Warning--to sort, need author or key in gameOfLife_wiki
+Warning--to sort, need author, editor, or key in Kybalion_1908
+Warning--empty author and editor in Kybalion_1908
+Warning--empty publisher in Kybalion_1908
+Warning--empty author and editor in Dennet_1991
+You've used 7 entries,
+            2118 wiz_defined-function locations,
+            538 strings with 4590 characters,
+and the built_in function-call counts, 1460 in all, are:
+= -- 131
+> -- 31
+< -- 0
++ -- 19
+- -- 8
+* -- 87
+:= -- 229
+add.period$ -- 16
+call.type$ -- 7
+change.case$ -- 23
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 71
+empty$ -- 159
+format.name$ -- 8
+if$ -- 312
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 5
+newline$ -- 33
+num.names$ -- 8
+pop$ -- 39
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 51
+stack$ -- 0
+substring$ -- 66
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 6
+while$ -- 9
+width$ -- 8
+write$ -- 64
+(There were 6 warnings)
